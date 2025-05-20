@@ -21,9 +21,7 @@ Choose your target platform (Linux, Windows, or Mac)
 
 I have chose Linux.
 
-![*alt text*][def]
-  
-[def]: image-1.png
+!![image](https://github.com/user-attachments/assets/c5255c32-7a48-4f03-bbd1-aece9cdf3a63)
 
 run the below command on your terminal
 
